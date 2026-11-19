@@ -4,11 +4,11 @@
 # Smart Delivery Delay Prediction Berbasis Analisis Data Transaksi dan Algoritma Machine Learning
 
 ## Anggota Kelompok
-| No. | Nama | NIM | Institusi |
-|:---:|---|---|---|
-| 1 | Yanaka Sofia Pardede | 24031554065 | Universitas Negeri Surabaya |
-| 2 | Desnanty Ratna Aulia | 24031554163 | Universitas Negeri Surabaya |
-| 3 | Annisa Ramadhani | 24031554206 | Universitas Negeri Surabaya |
+| No. | Nama | NIM |
+|:---:|---|---|
+| 1 | Yanaka Sofia Pardede | 24031554065 | 
+| 2 | Desnanty Ratna Aulia | 24031554163 |
+| 3 | Annisa Ramadhani | 24031554206 | 
 
 **Program Studi:** S1 Sains Data, Fakultas Matematika dan Ilmu Pengetahuan Alam
 
