@@ -147,7 +147,7 @@ Fitur paling berpengaruh adalah **`Days for shipping (real)`** (~0,47) dan **`Da
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yanakapardede/smart-delivery-delay-prediction-dataco.git
+git clone https://github.com/yanakapardede/prediksi-keterlambatan-pengiriman-dataco.git
 cd smart-delivery-delay-prediction-dataco
 ```
 
