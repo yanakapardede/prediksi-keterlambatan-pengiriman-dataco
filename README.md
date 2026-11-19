@@ -4,6 +4,7 @@
 # Smart Delivery Delay Prediction Berbasis Analisis Data Transaksi dan Algoritma Machine Learning
 
 ## Anggota Kelompok
+
 | No. | Nama | NIM |
 |:---:|---|---|
 | 1 | Yanaka Sofia Pardede | 24031554065 | 
