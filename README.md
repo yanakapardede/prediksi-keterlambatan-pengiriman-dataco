@@ -149,7 +149,7 @@ Fitur paling berpengaruh adalah **`Days for shipping (real)`** (~0,47) dan **`Da
 
 ```bash
 git clone https://github.com/yanakapardede/prediksi-keterlambatan-pengiriman-dataco.git
-cd smart-delivery-delay-prediction-dataco
+cd prediksi-keterlambatan-pengiriman-dataco
 ```
 
 ### 2. Install Dependencies
